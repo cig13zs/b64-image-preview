@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "B64-image-preview \u2014 Preview, inspect dimensions, and downloa",
-  "version": "1.0.0",
-  "description": "Preview, inspect dimensions, and download Base64 data URIs offline.",
+  "name": "Base64 image preview",
+  "version": "1.1.0",
+  "description": "Inspect image data URLs, read their dimensions, preview them, and download the original bytes locally.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -11,6 +11,6 @@
   "permissions": [],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "B64-image-preview"
+    "default_title": "Base64 image preview"
   }
 }
